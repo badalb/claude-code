@@ -1,4 +1,4 @@
-##Claude Code Hooks
+## Claude Code Hooks
 
 ## What are Hooks?
 
